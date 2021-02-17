@@ -1,0 +1,16 @@
+PODS:
+  - Netmera (3.10.0)
+
+DEPENDENCIES:
+  - Netmera
+
+SPEC REPOS:
+  trunk:
+    - Netmera
+
+SPEC CHECKSUMS:
+  Netmera: 78dbf933bb8db77bc561b8fec6777bd41d07eaa3
+
+PODFILE CHECKSUM: 7f182a75117d4c41bb75b93da36da04495b6037d
+
+COCOAPODS: 1.10.0
